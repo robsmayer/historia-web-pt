@@ -35,13 +35,13 @@ NIC 44125                                                   1 April 1978
 
                       TELNET RANDOMLY-LOSE Option
 
-1.  Command name and code.
+1.  Nome e código do comando.
 
    RANDOMLY-LOSE        256
 
-2.  Command meanings.
+2.  Significado do comando. (O que o comando faz)
 
-   IAC WILL RANDOMLY-LOSE
+   IAC WILL RANDOMLY-LOSE (IAC vai RAMDOMLY-LOSE)
 
       The sender  of this command  REQUESTS  permission  to, or confirms
       that it will, randomly lose.
